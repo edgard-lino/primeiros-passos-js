@@ -15,4 +15,8 @@ const somaNumerosPequenos = (num1, num2) => {
   }
 };
 
+// Hoisting: Arrow Function se comporta como expressão
+// Arrow Function é menor e mais prático, mas se estiver complicado, usar os outros modos
+// prestar atenção no hoisting, pode dar bug por causa do const
+
 // é diferente do Operador maior ou igual que ( >= )
